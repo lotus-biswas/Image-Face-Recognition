@@ -14,6 +14,8 @@ for x,y,w,h in faces:
 
     cv2.imshow("Gray",resized)
 
+    
     cv2.waitKey(0)
+    
 
     cv2.destroyAllWindows()
