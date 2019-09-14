@@ -1,3 +1,4 @@
+
 import cv2
 face_cascade=cv2.CascadeClassifier("C:\\Users\\Lotus Biswas\\Desktop\\python1\\haarcascade_frontalface_default.xml")
 
